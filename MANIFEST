@@ -12,6 +12,7 @@ lib/ByteBeat.pm
 lib/ByteBeat.pod
 lib/ByteBeat/Compiler.pm
 lib/ByteBeat/RPN.pm
+lib/ByteBeat/Shell.pm
 share/bytebeat.pgx
 t/000-compile-modules.t
 t/release-pod-syntax.t
