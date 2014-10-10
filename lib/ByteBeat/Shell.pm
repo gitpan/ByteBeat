@@ -5,7 +5,6 @@ use Curses();
 use Term::ReadKey;
 use IPC::Run();
 use Time::HiRes;
-use XXX;
 
 my ($y, $x) = (0, 0);
 my $byte = [{pos => 0, play => 0, start => 0}];
